@@ -1,5 +1,5 @@
 <div>
-<h1>Sistema de compra de pizzas da plataforma b7web</h1>
+<h1>Sistema de controle de contatos</h1>
 </div>
 
 <h3>
